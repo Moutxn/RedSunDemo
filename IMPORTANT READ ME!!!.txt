@@ -1,0 +1,24 @@
+ - If you have this .txt, it means you are playing the Demo. I will do a TL;DR of what is important:
+
+
+ > This mod is Luigi only. Use the SaveFile already in the mod and play as Luigi - do NOT do a new SaveFile and do NOT play with Mario on that SaveFile. It is impossible to play with
+  Mario (you will die in the Prologue) and every Dome, except Dome 1, has Death Areas.
+
+ > Talking about Death Areas, every Hungry Luma galaxies (even the Terrace one) and every Dome that isn't the Terrace has a Death Area under it: it impossible to go in any of them.
+
+  -> As such, know that this mod includes these Galaxies/levels only:
+   * Gateway.
+   * Good Egg 1, 2, 3 and C.
+   * Gusty Garden 1, 2, 3, S and C.
+   * Rolling Green 1, 2, S1 and S2.
+   * Robot Reactor 1, 2, S1 and S2.
+
+ > This Demo is 18 Stars. Do NOT take Robot Reactor 1 (the Grand Star) as your 13th Star, as it will crash your game. You are warned.
+
+ > Matter Splatter is unlockable, but going into it will kill you again and again, soft-locking you in a never-ending death loop; you will need to restart the mod if you go there.
+  You deserve to get soft-locked if you go into a Galaxy I told you not to go to.
+
+ > Lastly, I would ask you NOT to go to with Mario and check the Galaxies orders and the names of Dome 2 and Dome 3. I know it's tempting, but I would be happy if you don't.
+
+
+ Nothing else to say. Everything you might need is in the .txt in the folder. Have fun and stray strong!

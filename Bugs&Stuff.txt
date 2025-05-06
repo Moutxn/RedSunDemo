@@ -1,0 +1,30 @@
+ [IMPORTANT ONES!!]
+
+
+
+
+
+ [OVERALL]
+
+
+
+
+
+ [GALAXIES/WORLD MAP]
+
+  -> Some Galaxies won't unlock for a bit (some Lumas won't show themselves until you get the Green Stars, some galaxies are unlocked only when you do a level of a Galaxy way later,
+ stuff like that...). While it can be considered a bug, every galaxy of the game will unlock at some point, don't worry.
+
+  -> The music in Beach Bowl C acts a bit weird - as it's funny, I don't plan on trying to fix it.
+
+
+
+
+ [GALAXIES/STARS]
+
+  -> Taking the Dome 1 Grand Star as your 13rd Star will make the game crash.
+
+
+
+
+ [OTHERS]

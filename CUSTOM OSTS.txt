@@ -1,0 +1,68 @@
+Here all the stuff that's changed! (This will be done better for the release - this is just copy-paste from my own .txt).
+
+ V "Title" (SMG_title_strm) [Title music] -> Main Theme (DS3) (Dark Souls III OST).
+
+
+ V "Gateway Galaxy 1" (SMG_galaxy24_multi) [Gateway start] -> Sloth (Re:Zero OST).
+
+ V "Gateway Galaxy 2" (SMG_galaxy25_multi) [Gateway continue] -> Final Hours (Majora's Mask OST).
+
+ V "Gateway Galaxy 3" (SMG_galaxy26_multi) [Gateway end] -> Shadows (Halo 3 OST).
+
+ V "Good Egg Galaxy" (SMG_galaxy01_strm) [Good Egg Galaxy] -> Dearly Beloved (Kingdom Hearts OST).
+
+ V "Space Fantasy" (SMG_galaxy12_strm) [Matter Splatter,...] -> Dog Pound (Dog's Life PS2 OST).
+
+ V "Gusty Garden Galaxy" (SMG_galaxy14_strm) [Gusty Garden] -> 遺サレタ場所/斜光 (Nier Automata OST).
+
+ V "Blue Sky Athletic" (SMG_galaxy17_strm) [Rolling Green/Rolling Gizmo,... OST] -> Firelink Shrine (Dark Souls OST).
+
+ V "A Tense Moment" (SMG_galaxy01_tomb_strm) [Mostly Bowser/Bowser Jr.'s levels] -> Escape From Habitation Decks (Alien: Isolation OST).
+
+ V "Beach Bowl Galaxy" (SMG_galaxy03_multi) [Beach Bowl Galaxy] (Surface) -> Demetori - The Mound Where the Flowers Reflect - Mound of Life ~ Unnamed Scenery.
+                                                                (Water) -> Aquatic Ambiance Returns (Donkey Kong Country Returns OST).
+
+ V "Space Athletics" (SMG_galaxy13_strm) [Hurry-Scurry Galaxy, Pull Star Path, Space Storm 1 ending,...] -> Before Every Load (Buckshot Roulette OST).
+
+
+
+
+
+ V "Speedy Comet" (SMG_galaxy02_hurry_strm) [Speedy Comets] -> Aliens (Alien: Isolation OST).
+
+ V "Purple Comet" (SMG_galaxy21_strm) [Purple Coins Comets] -> Purple Comet Ultimate MashUp (Mashup).
+
+
+
+ V "Dino Pirahna (Normal)" (SMG_boss03a_strm) [Dino P. fight, 1st phase] -> Limbus Company OST - Canto VII Boss Battle 3 Theme (Limbus Company OST). [00:00]
+
+ V "Dino Pirahna (Fast)" (SMG_boss03b_strm) [Dino P. fight, 2nd phase] -> Limbus Company OST - Canto VII Boss Battle 3 Theme (Limbus Company OST). [1:38]
+
+
+
+ V "Major Burrows (Normal)" (SMG_boss05a_strm) [Major Burrow Phase 1] -> Sancho/Canto VII Boss Battle 4 Theme (Limbus Company OST). [0:00]
+
+ V "Major Burrows (Fast)" (SMG_boss05b_strm) [Major Burrow Phase 2] -> Sancho/Canto VII Boss Battle 4 Theme (Limbus Company OST). [1:23]
+
+
+
+ V "Megaleg (Normal)" (SMG_boss02a_strm) [Megaleg Boss fight (Before destroying the first cage)] -> A Beautiful Song (Nier Automata OST).
+
+ V "Megaleg (Fast)" (SMG_boss02b_strm) [Megaleg Boss fight (After destroying the first cage] -> A Beautiful Song (Church Bells Ver.) (Nier Automata OST).
+
+
+
+ V "A Chance to Grab a Star! 1" (SMG_ev_starchance_strm) [Star grab] -> Shaman Village (Elden Ring DLC OST).
+
+ V "Pipe Interior" (SMG_galaxy18_strm) [Secret Areas, like in Good Egg on Beach Bowl] -> Spiral of Contempt - Cur dolorem sentis (Limbus Company OST).
+
+
+
+
+
+ V "Comet Observatory 1" (SMG_astroout01_strm) [Comet Observatory Start] -> Clair de Lune (Claude Debussy song).
+
+
+
+ V "Dome" (SMG_astrodome_multi) -> (Inside) -> Hokma Battle 1 (Library of Ruina OST).
+                                   (Galaxy selection) -> Alien: Isolation Alarms (Alien: Isolation sound effects).

@@ -1,0 +1,79 @@
+ -> Here can be found the thanks with more words than I could say in the credits at the end of the mod. Thank you to all, all of them.
+
+
+ BETA-TESTERS:
+
+  * TheCesar_MK8 - He was also a beta-tester and a great friend overall. Helped with OSTs changes as well! <3
+
+  * Superantoniogalaxy - Proposing to beta-test and completing Blue Eclipse. Also someone very nice towards me! [Only for Dome 1 to not get spoiled on the rest]
+
+  * elpollo - He was my beta-tester for Blue Eclipse too and he is a great friend, and a great player. Thank you a lot for all your works. <3
+
+  * Tibs - Accepted to beta-test when goujon asked! I appreciate it a lot~!
+
+
+   [At least tried?]
+  * goujon78 - Accepting to beta-test when I asked, helping me with tricks and being very nice to me as well~!
+
+  * Flowersie - Proposing to beta-test and being nice; yes, them too!
+
+
+
+ HELP (More towards technical stuff):
+
+ > TheMagicCactus: Explaining me stuff about SMG1 modding and helping me out on it; same for texts. Being a great support and very supportive/friendly with me~. As well, creator
+                  of the title logo (once again!).
+
+ > Super Hackio: Helping me with the Galaxies re-order (New number of Stars requiered). Fixing Matter Splatter "unappearance". :3
+
+ > PKSMG2: Helping with Cursor recoloring & some other stuff on the side. Always there to give a hand to help. Also, the one who changed the Star Ball to red, changed the Star Counter
+          icon, some Font images too! <3
+
+ > Molovo: Helping with .ast conversion (even if I did the rest myself when ASTCreate finally worked) and being a great moral support for me. <3
+
+ > Bu1626: The one who made the Black Holes be red and let me used her red Sling/Launch Stars paths! Also helped on explaining some stuff here and there! <3
+
+
+
+
+ HELP (More towards morale/motivation, could be technical a bit?):
+
+ > Pamsyy: Of course, my girlfriend. Thanks for watching all Stars, even if I take minutes and minutes on a level (or hours), even if you need to watch me release the
+          most batshit things ever. I always appreciate how supportive she is with me, and I appreciate her honest opinions on the Stars. <3
+
+ > Jhay: Support and helping me out with some of the 2P stuff (like sending an useful Discord) - talked a lot with me during Blue Eclipse and (probably) after too.
+
+ > The_Clanker: Not hesitating to give me his opinions and clearly having a lot of love and attention towards Blue Eclipse and my trilogy overall. Also proposing to beta-test. <3
+
+
+
+
+ MUSIC (Help finding good OSTs):
+
+  > TheCesar_MK8: While most the OSTs are my choice, quite a few are his! Like in Blue Eclipse, he helped me a lot finding good OSTs, so thanks to him! <3
+
+  > Flowersie: Not only did he help me find some OSTs, he also edited some of them so they could fit better! While most of his choices were good, they didn't fit what I want for
+              my mod, but still very helpful! Thank you. <3
+
+
+
+
+ SPECIAL THANKS:
+
+ > Pamsyy: Just being there in general. Watching all the Stars, being patient, supporting me, even when it's not what she is best at. Without her, maybe this project would have
+           been given up.
+
+ > The Luma Workshop's Discord: While not towards me the most (not because they ignore me, but because I don't ask too much), always answering questions, always helping people
+                               who wants to mod, etc... They are all awesome and please, if you want to try to mod, go see them, and not me - they know way more than my ass.
+
+ > Everyone from my Discord. A lot of songs proposed, a lot of love and care, a lot of good messages, and people overall being interested in my projects.
+
+
+ > And anyone who supports me, helps me, try to help me, accepts to hear me out, show me stuff, being friendly to me... Anyone with a golden heart or, just, being a decent human
+  being. Thank you everyone and hopefully, I can offer a full trilogy worth of your time.
+
+
+
+
+ (I don't really have any inspirations for Red Sun, but thanks to TheMagicCactus for the wonderful hack "Superstar" - I had a lot of fun and I guess 2 - 3 things inspired me, like
+ his Megaleg boss.)
