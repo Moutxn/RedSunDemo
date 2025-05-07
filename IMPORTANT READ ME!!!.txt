@@ -8,7 +8,7 @@
 
   -> As such, know that this mod includes these Galaxies/levels only:
    * Gateway.
-   * Good Egg 1, 2, 3 and C.
+   * Good Egg 1, 2, 3 and C. [I left a Dev Pipe in it, do not use it or I kill you with my paws]
    * Gusty Garden 1, 2, 3, S and C.
    * Rolling Green 1, 2, S1 and S2.
    * Robot Reactor 1, 2, S1 and S2.
